@@ -1,0 +1,33 @@
+
+body{
+  background-image: url("https://images.unsplash.com/photo-1428908728789-d2de25dbd4e2?crop=entropy&dpr=2&fit=crop&fm=jpg&h=725&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1275");
+}
+
+.well{
+  width:auto;
+  /*display:inline-block;*/
+}
+
+h1{
+  font-size: 85px;  
+}
+
+h2{
+  font-size: 60px;
+}
+
+p{
+  font-size: 35px;
+}
+
+.city{
+  font-size:25px;
+}
+
+img{
+  width:90px;
+}
+
+#main {
+  margin-top: 10%;
+}
